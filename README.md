@@ -22,26 +22,26 @@ It provides a seamless and secure interface where users can log in, submit their
 
 # 🏗️ Tech Stack
 
-- Frontend
+Frontend
 
-React + Vite
+- React + Vite
 
-Axios for API calls
+- Axios for API calls
 
-React Router for navigation
+- React Router for navigation
 
-- Backend (Node.js)
+Backend (Node.js)
 
-Express.js
+- Express.js
 
-MySQL (for user and prediction data)
+- MySQL (for user and prediction data)
 
-JWT Authentication
+- JWT Authentication
 
 Machine Learning API
 
-FastAPI
+- FastAPI
 
-Scikit-learn (for ML model)
+- Scikit-learn (for ML model)
 
-Pandas, NumPy
+- Pandas, NumPy
